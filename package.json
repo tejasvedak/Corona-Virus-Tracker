@@ -1,5 +1,5 @@
 {
-  "name": "corona_app",
+  "name": "corona_virus_tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
